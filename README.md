@@ -2,6 +2,7 @@ Sales Report Overview:
 Objective:
 
 Develop a comprehensive customer performance report.
+https://github.com/AnushaDevaram1/Sales-Excel-Analytics/blob/main/Customer%20Performance%20Report.pdf
 Conduct an in-depth comparison between market performance and sales targets.
 Purpose: Sales analytics to empower businesses in monitoring and evaluating sales activities and performance.
 

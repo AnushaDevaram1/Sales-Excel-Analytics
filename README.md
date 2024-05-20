@@ -17,6 +17,7 @@ Objective:
 Generate Profit and Loss (P&L) reports by
 https://github.com/AnushaDevaram1/Sales-Excel-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 Develop Profit and Loss (P&L) reports by
+https://github.com/AnushaDevaram1/Sales-Excel-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
 Purpose: Financial performance evaluation, supporting decision-making, and facilitating communication with stakeholders.
 
 Importance: Aid in benchmarking against industry peers and previous periods, foundation for budgeting and forecasting.

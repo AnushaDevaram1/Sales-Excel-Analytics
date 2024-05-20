@@ -4,6 +4,7 @@ Objective:
 Develop a comprehensive customer performance report.
 https://github.com/AnushaDevaram1/Sales-Excel-Analytics/blob/main/Customer%20Performance%20Report.pdf
 Conduct an in-depth comparison between market performance and sales targets.
+https://github.com/AnushaDevaram1/Sales-Excel-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
 Purpose: Sales analytics to empower businesses in monitoring and evaluating sales activities and performance.
 
 Importance: Analysis of sales data to identify patterns and track key performance indicators (KPIs).

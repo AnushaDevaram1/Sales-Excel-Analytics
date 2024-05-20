@@ -14,7 +14,8 @@ Role of Reports: Determine effective customer discounts, facilitate negotiations
 Finance Report Overview:
 Objective:
 
-Generate Profit and Loss (P&L) reports by 
+Generate Profit and Loss (P&L) reports by
+P&L Statement by Fiscal Year.pdf
 Develop Profit and Loss (P&L) reports by
 Purpose: Financial performance evaluation, supporting decision-making, and facilitating communication with stakeholders.
 
